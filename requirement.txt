@@ -1,0 +1,39 @@
+Rest Api Security Concerns 
+ --- > Add Rate Limit
+ --- > Add Authentication
+ --- > Add cookies
+
+
+Redis for rateLimit
+Use docker for Redis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+Arch
+
+1 . Create a CRUD for ser Profile 
+2 . PayMent with Secure (Mock)
+3 . Coins for Poke 
+4 . Image store and Poke Coins
+5 . Roles User and Admin
+6 . Socket Connection when there is a issue 
+7 . File Upload and Read
+8 . Sell and Buy Card in MarketPlace
+
