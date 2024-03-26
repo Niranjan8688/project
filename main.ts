@@ -6,6 +6,8 @@ app.get('/',(req:Request , res : Response)=>{
     res.send("Hello")
 })
 
+
+
 app.listen(8080,()=>{
     console.log("Server is Started at port 8080")
 })
